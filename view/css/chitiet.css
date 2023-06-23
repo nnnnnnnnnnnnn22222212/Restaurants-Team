@@ -1,0 +1,56 @@
+.main{
+    padding: 50px 50px;
+}
+.now{
+    display: flex;
+    justify-content: center;
+    
+}
+.img{
+    width: 50%;
+    height: 100px;
+}
+.img img{
+    width: 300px;
+}
+.tong{
+    text-align: center;
+    width: 60%;
+    height: 200px;
+    border: 3px solid red;
+    border-radius: 10px;
+}
+H1{
+    margin-top: 80px;
+}
+.cmt{
+    margin-top: 200px;
+}
+.aaa{
+    margin-top: 2px;
+}
+.aaa input[type=text]{
+    width: 50%;
+    border-color: #41b159;
+    border-radius: 5px;
+}
+.aaa input[type=submit]{
+    width: 10%;
+    background-color: aquamarine;
+    border-radius: 5px;
+    
+}
+
+.tx h1{
+    margin-bottom: 10px;
+}
+.tx span{
+    color: red;
+    font-size: 20px;
+   
+
+}
+.tx p{
+    padding-top: 30px;
+    font-size: 20px;
+}
